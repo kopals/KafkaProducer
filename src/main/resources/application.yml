@@ -1,0 +1,9 @@
+#spring:
+#  profiles: localkafka
+#  cloud:
+#    stream:
+#      kafka:
+#        binder:
+#          brokers: localhost:9092
+server:
+  port: 8081
